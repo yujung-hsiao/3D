@@ -1,5 +1,8 @@
 ### For 3D Reconstruction
 
+all.py
+ - contain all the process including preprocessing, cnn prediction...  to find the corresponding pair
+   
 camera.py
  - capture webcam picture
  
